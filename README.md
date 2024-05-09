@@ -51,6 +51,6 @@ The go-twitch-live-checker project is designed to provide a streamlined solution
 > ```
 Endpoint      |     URL
 ------------- | -------------
-Format  | <code>localhost:\<port>/?channel=\<channel-to-check></code>
+Get Status  | <code>localhost:\<port>/?channel=\<channel-to-check></code>
 
 ---
